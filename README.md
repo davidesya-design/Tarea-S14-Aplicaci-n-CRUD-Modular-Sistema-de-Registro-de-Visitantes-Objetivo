@@ -9,6 +9,7 @@ Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de
 ## Estructura del proyecto
 
 visitas_app/
+
 ├── main.py
 
 ├── modelos/
