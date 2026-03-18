@@ -1,4 +1,5 @@
-# tarea_poo_visitas
+# Tarea s14: Aplicación CRUD Modular – Sistema de Registro de Visitantes
+Objetivo
 
 Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de visitantes. Implementa operaciones CRUD en memoria y sigue una arquitectura modular por capas.
 
