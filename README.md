@@ -10,10 +10,15 @@ Aplicación de escritorio desarrollada en Python con Tkinter para la gestión de
 
 visitas_app/
 ├── main.py
+
 ├── modelos/
+
 │   └── visitante.py
+
 ├── servicios/
+
 │   └── visita_servicio.py
+
 └── ui/
     └── app_tkinter.py
 
